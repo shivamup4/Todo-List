@@ -1,1 +1,2 @@
-# Todo-List
+- Simple Todo List made with HTML, CSS and JavaScript.
+- The concepts like Document Object Model (DOM), Events are used.
